@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   -->
-
-| - Blog：https://king-key.github.io/ <br /><br /><br /><br /><br /><br /><br /><br />| <img align="right" src="https://github-readme-stats.vercel.app/api?username=King-Key&show_icons=true&theme=radical)"></img> |
+<center>
+| - Blog：https://king-key.github.io/ <br /><br /><br /><br /><br /><br /><br /><br />| <img align="right" src="https://github-readme-stats.vercel.app/api?username=King-Key&show_icons=true&theme=radical)"> |
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
 
+</center>
