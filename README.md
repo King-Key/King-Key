@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
+<!-- 
 ---
 <img align="center" alt="img" src="https://ghchart.rshah.org/King-Key" width="100%" height="auto" />
 
 --- 
+-->
 
 <img align="right" alt="img" src="https://github-readme-stats.vercel.app/api?username=King-Key&show_icons=true&theme=radical)" width="50%" height="auto" />
 
